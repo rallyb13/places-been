@@ -1,0 +1,17 @@
+h2 {
+  text-align: center;
+  padding: 5%;
+}
+
+#this-place {
+  display: none;
+}
+
+.place {
+  cursor: pointer;
+  color: red;
+}
+
+.place:hover {
+  text-decoration: underline;
+}
